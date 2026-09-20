@@ -1,0 +1,13 @@
+{
+  "territoire": {
+    "quartier": "Aucun territoire revendiqué",
+    "description": "",
+    "dernierMAJ": null
+  },
+  "membres": [
+    { "pseudo": "PikPik", "grade": "Boss" },
+    { "pseudo": "Shad", "grade": "Sous-Boss" },
+    { "pseudo": "Duke", "grade": "Lieutenants" },
+    { "pseudo": "Scream", "grade": "Membre" }
+  ]
+}
